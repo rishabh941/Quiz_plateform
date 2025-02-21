@@ -11,7 +11,7 @@ const QuizPage = () => {
 
   useEffect(() => {
     const getQuestions = async () => {
-        const response = await fetch(`${process.env.REACT_APP_API_URL}`);
+        const response = await fetch(`${import.meta.env.REACT_APP_API_URL}`);
       const data = await response.json();
       setQuestions(data);
     };
