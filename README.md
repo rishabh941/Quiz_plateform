@@ -4,12 +4,6 @@ An interactive quiz platform built with **React**, **Tailwind CSS**, **Node.js**
 
 ---
 
-## 🎨 Demo
-
-**Live Demo:** [Click Here](https://quiz-plateform-frontend.onrender.com)
-
----
-
 ## 📚 Features
 
 - **Quiz Creation & Management**:
